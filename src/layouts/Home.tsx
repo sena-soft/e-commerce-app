@@ -26,7 +26,7 @@ const Layout = () => {
             src={LogoImage}
             className="mx-auto h-12 w-auto"
           />
-          <h1 className="block font-extrabold text-2xl text-blue-500 pl-2">  E-Commerce </h1>
+          <h1 className="block font-extrabold text-2xl text-blue-500 pl-2">  e-Commerce Gapsi </h1>
         </Link>
         <div>
 
